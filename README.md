@@ -104,23 +104,3 @@ Now visit:
 
 ```
 https://github.com/Motaseam-Yousef
-```
-
-You will see your **profile beautifully rendered** 💥
-
----
-
-# 🧠 WAY B — Using Terminal (Optional)
-
-If you prefer command line:
-
-```bash
-git clone git@github.com:Motaseam-Yousef/Motaseam-Yousef.git
-cd Motaseam-Yousef
-touch README.md
-# paste content inside README.md
-git add README.md
-git commit -m "Add profile README"
-git push
-```
-
